@@ -1,0 +1,23 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Background showing a football stadium at night",
+      "imageUrl": "https://picsum.photos/seed/wc26_stadium/1200/800",
+      "imageHint": "stadium football"
+    },
+    {
+      "id": "sticker-neymar",
+      "description": "Neymar Junior football sticker",
+      "imageUrl": "https://i.ibb.co/KxPR9j9H/image.jpg",
+      "imageHint": "neymar football"
+    },
+    {
+      "id": "gallery-icon",
+      "description": "World Cup Trophy Icon",
+      "imageUrl": "https://i.ibb.co/C5C6Tvjm/image.jpg",
+      "imageHint": "football trophy"
+    }
+  ]
+}
